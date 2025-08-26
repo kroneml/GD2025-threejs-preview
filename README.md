@@ -5,4 +5,4 @@ This is an [online demo](https://kroneml.github.io/GD2025-threejs-preview/) for 
 Lin Ye, Melanie Baur, Michael Krone<br>
 Stuttgart Technical University of Applied Sciences (HFT Stuttgart)
 
-<sup>Thanks to Nico Reski for providing the three.js based preview system for the Nörrkoping Decision Arena that we used for our demo. For more information, please refer to the original repository from which this one was forked.</sup>
+<sup>Thanks to Nico Reski for providing the three.js based preview system for the Nörrkoping Decision Arena that we used for our demo. For more information, please refer to the [original repository}(https://github.com/nicoversity/threejs-cd-preview) from which this one was forked.</sup>
