@@ -28,8 +28,6 @@ import { CDSceneConfig, CDConfig } from "./config.js";
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
-console.log(CDData);
-
 // === HTML / DOM PREPARATION ===
 // margin of the body (according to settings in styles.css)
 let htmlBodyMargin = window.getComputedStyle(document.body).getPropertyValue('margin-top');
