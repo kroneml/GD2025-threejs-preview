@@ -19,7 +19,7 @@ const CylindricalDisplayData = [
     },
     {
         // 3D scene rendered with equirectangular projection (cylindrical equidistant projection); created using Unity; Nico Reski
-        textureUrl: "./public/unity_3d_test-4096x400px.png"
+        textureUrl: "./public/poster.png"
     }
 ];
 
