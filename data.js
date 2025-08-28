@@ -22,6 +22,9 @@ const CylindricalDisplayData = [
     },
     {
         textureUrl: "./public/poster_black.png"
+    },
+    {
+        textureUrl: "./public/poster_black_bg.png"
     }
 ];
 
