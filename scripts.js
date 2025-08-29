@@ -151,7 +151,7 @@ function BuildScene()
 {
     // --- scene start ---
     scene = new THREE.Scene();
-    scene.background = new THREE.Color(CDSceneConfig.background);
+    //scene.background = new THREE.Color(CDSceneConfig.background);
 
     // --- scene contents ---
     // note: unit convention: 1 unit == 1 meter
@@ -239,7 +239,8 @@ function BuildScene()
     // WebGLRenderer: https://threejs.org/docs/#api/en/renderers/WebGLRenderer
     renderer = new THREE.WebGLRenderer({
         canvas: canvas,
-        antialias: true
+        antialias: true,
+        alpha: true
     });
     renderer.setSize(CDSceneConfig.canvas.width, CDSceneConfig.canvas.height);
     renderer.render(scene, camera);
