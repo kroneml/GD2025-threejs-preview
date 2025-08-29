@@ -15,17 +15,17 @@
 const CylindricalDisplayData = [
     {
         textureUrl: "./public/poster_black_bg.png"
-    },
-    {
-        textureUrl: "./public/poster_black.png"
-    },
-    {
-        textureUrl: "./public/poster.png"
-    },
-    {
-        // test/reference image, dividing the cylindrical 360 space into eight equally sized sections; Nico Reski
-        textureUrl: "./public/cd_360_eighths-12288x1200px.png"
-    }
+    }//,
+    //{
+    //    textureUrl: "./public/poster_black.png"
+    //},
+    //{
+    //    textureUrl: "./public/poster.png"
+    //},
+    //{
+    //    // test/reference image, dividing the cylindrical 360 space into eight equally sized sections; Nico Reski
+    //    textureUrl: "./public/cd_360_eighths-12288x1200px.png"
+    //}
 ];
 
 export { CylindricalDisplayData as CDData };
