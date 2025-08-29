@@ -28,7 +28,8 @@ const CylindricalDisplaySceneConfig = {
             z: 0
         }
     },
-    background: 0xdeebf7
+    //background: 0xdeebf7
+    background: 0x494D51
 };
 
 // configuration related to the cylindrical display
@@ -47,7 +48,7 @@ const CylindricalDisplayConfig = {
         offset: 0.02,
         width: 0.25,
         radialSegments: 64,
-        color: 0xf0f0f0
+        color: 0x626262
     }
 };
 
