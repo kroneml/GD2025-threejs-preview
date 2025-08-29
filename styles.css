@@ -10,4 +10,11 @@
 body {
     margin: 20px;
     background-color: #494D51;
+    background-image: url('http://youring.com/test/img/texture.png');
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
 }
