@@ -10,7 +10,7 @@
 body {
     margin: 20px;
     background-color: #494D51;
-    background-image: url('http://youring.com/test/img/texture.png');
+    background-image: url('./public/foggy_forest.png');
     position: fixed;
     top: 0;
     left: 0;
